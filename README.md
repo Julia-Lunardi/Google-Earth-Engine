@@ -1,5 +1,5 @@
 # Google-Earth-Engine
-Javascript code in Google Earth Engine. The code below was written to extract and map data for my ROI.
+Javascript code for Google Earth Engine. The code below was written to extract and map data for my ROI.
 
 The first image illustrates the treatment area, in pink (Payment for Ecosystem Services area), and the control area, in green. 
 
